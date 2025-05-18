@@ -5,4 +5,3 @@ seaborn
 numpy
 plotly
 scikit-learn
-datatime
