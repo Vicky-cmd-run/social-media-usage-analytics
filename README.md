@@ -13,7 +13,7 @@ An interactive Streamlit dashboard that visualizes and analyzes how people spend
 
 ## 🚀 Try the Dashboard Online
 
-🌐 [Live Demo on Streamlit Cloud](https://your-deployed-app-link.streamlit.app)
+🌐 [Live Demo on Streamlit Cloud](https://social-media-usage-analytics-hkng5anymuxe24ebqwryxc.streamlit.app/)
 
 ---
 
